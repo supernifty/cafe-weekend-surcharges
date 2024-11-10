@@ -22,4 +22,6 @@ It's helpful to know which cafés charge extra on weekends and by how much.
 ## About
 Found a mistake? Want to add something? Email us: cafes at supernifty dot org
 
+This page is online at https://supernifty.github.io/cafe-weekend-surcharges/
+
 
