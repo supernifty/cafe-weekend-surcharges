@@ -9,7 +9,7 @@ It's helpful to know which cafés charge extra on weekends and by how much.
 | Establishment | Surcharge | Added/Updated |
 | - | - | - |
 | Cuppa Turca, Northcote | **0%** | August, 2024 |
-| Espresso, Northcote | **0%** | November, 2024 |
+| Espresso, Northcote | **10%** | Decemer, 2024 |
 | Harvest, Fairfield | **0%** | November, 2024 |
 | Haytch, Thornbury | **0%** | November, 2024 |
 | Lan Coffee, Thornbury | 10% | August, 2024 |
