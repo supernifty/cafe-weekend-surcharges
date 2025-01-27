@@ -4,7 +4,7 @@ It's helpful to know which cafés charge extra on weekends and by how much.
 
 ## Melbourne
 
-### Fairfield, Northcote, Thornbury, Fitzroy North, Clifton Hill, Preston
+### Clifton Hill, Fairfield, Fitzroy North, Northcote, Preston, Thornbury
 
 | Establishment | Surcharge | Added/Updated |
 | - | - | - |
@@ -21,6 +21,7 @@ It's helpful to know which cafés charge extra on weekends and by how much.
 | Tinker, Northcote | 11% | September, 2024 |
 | Todo Good Coffee, Westgarth | 10% | November, 2024 |
 | Twice Shy, Fitzroy North | **0%** | August, 2024 |
+| Uncle Drew, Clifton Hill | 10% | January, 2025 |
 
 ## About
 Found a mistake? Want to add something? Email us: cafes at supernifty dot org
