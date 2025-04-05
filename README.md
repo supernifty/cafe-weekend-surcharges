@@ -4,7 +4,7 @@ It's helpful to know which cafés charge extra on weekends and by how much.
 
 ## Melbourne
 
-### Clifton Hill, Fairfield, Fitzroy North, Northcote, Preston, Thornbury
+### Brunswick, Clifton Hill, Fairfield, Fitzroy North, Northcote, Preston, Thornbury
 
 | Establishment | Surcharge | Added/Updated |
 | - | - | - |
@@ -14,6 +14,7 @@ It's helpful to know which cafés charge extra on weekends and by how much.
 | Haytch, Thornbury | **0%** | November, 2024 |
 | Lan Coffee, Thornbury | 10% | August, 2024 |
 | Little Local, Northcote | 10% | November, 2024 |
+| Lux, Brunswick | 10% | April, 2025 |
 | May and Mac, Northcote | 10% | November, 2024 |
 | Mitte, Fitzroy North | **0%** | November, 2024 |
 | Mr Miller, Preston | **0%** | August, 2024 |
