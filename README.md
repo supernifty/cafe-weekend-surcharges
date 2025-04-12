@@ -8,6 +8,7 @@ It's helpful to know which cafés charge extra on weekends and by how much.
 
 | Establishment | Surcharge | Added/Updated |
 | - | - | - |
+| Cheshire, Preston | **0%** | April, 2025 |
 | Cuppa Turca, Northcote | **0%** | August, 2024 |
 | Espresso Room, Northcote | **10%** | December, 2024 |
 | Harvest, Fairfield | **0%** | November, 2024 |
